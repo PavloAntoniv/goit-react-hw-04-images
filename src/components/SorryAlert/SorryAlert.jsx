@@ -8,7 +8,7 @@ const SorryAlert = ({ images }) => {
     <>
       {images && !images.length && (
         <div>
-          <SorryImg src="https://i.pinimg.com/originals/20/84/02/2084021a6145d635737c1da3752caa9b.gif" />
+          <SorryImg src="https://i.pinimg.com/originals/5e/a7/37/5ea737912f9f50da392a5579ea9d0334.gif" />
           <Text>
             Sorry, these photos were not found
             <TfiFaceSad />
