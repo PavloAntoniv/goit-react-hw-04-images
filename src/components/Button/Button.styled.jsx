@@ -30,7 +30,7 @@ export const LoadMore = styled.button`
     width: 100%;
     height: inherit;
     border-radius: inherit;
-    background: linear-gradient(82.3deg, rgba(150, 93, 233, 1) 10.8%, rgba(99, 88, 238, 1) 94.3%);
+    background: linear-gradient(82.3deg, rgba(150, 93, 233, 1) 10.8%, rgba(254, 232, 0, 0.62) 94.3%);
     transition: all 0.475s;
   }
 `;

@@ -10,7 +10,7 @@ export const Header = styled.header`
   align-items: center;
   justify-content: center;
   padding: 10px 50px;
-  background-color: rgba(25, 10, 122, 0.5);
+  background-color: rgba(251, 175, 32, 0.62);
   border-radius: 0 0 10px 10px;
   max-width: calc(100vw - 200px);
   margin: 0 auto;
